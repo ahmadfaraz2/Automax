@@ -1,0 +1,10 @@
+asgiref==3.6.0
+crispy-bootstrap4==2022.1
+Django==3.2.5
+django-crispy-forms==2.0
+django-filter==23.2
+django-localflavor==3.1
+Pillow==9.5.0
+python-stdnum==1.18
+pytz==2023.3
+sqlparse==0.4.3
